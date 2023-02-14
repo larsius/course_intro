@@ -22,6 +22,9 @@ You may use the provided links to
 1. [Dictionaries](https://larsius.github.io/html/dictionaries.html) [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/dictionaries.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/exercises/dictionaries_exercise.ipynb)
 1. [For loops](https://larsius.github.io/html/for_loops.html) [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/for_loops.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/exercises/for_loops_exercise.ipynb)
 1. [Functions](https://larsius.github.io/html/functions.html) [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/functions.ipynb) [[exercise]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/exercises/functions_exercise.ipynb)
+1. [List comprehension] [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/List_comprehension.ipynb)
+1. [Module numpy] [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/numpy.ipynb)
+1. [Module matplotlib.pyplot] [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/pyplot.ipynb)
 
 
 ## Credits
