@@ -25,7 +25,7 @@ You may use the provided links to
 1. List comprehension [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/List_comprehension.ipynb)
 1. Module numpy [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/numpy.ipynb)
 1. Module matplotlib.pyplot [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/pyplot.ipynb)
-1. Exercise sheet Numpy & co (http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/Exercise_sheet_1_Opencv_and_Numpy_arrays.pdf)
+1. Exercise sheet Numpy & co [[exercise]] (http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/Exercise_sheet_1_Opencv_and_Numpy_arrays.pdf)
 
 
 ## Credits
