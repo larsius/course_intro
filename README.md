@@ -29,6 +29,8 @@ You may use the provided links to
 1. Pandas intro [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/part2_pandas_etc/02-pandas_introduction.ipynb)
 
 ## Credits
-first part is is modified from (https://github.com/jerry-git/learn-python3)
-pandas intro from Joris van den Bossche, recommended further notebooks here:
+first part (1.-7.) is is modified from (https://github.com/jerry-git/learn-python3)
+
+pandas intro modified from Joris van den Bossche
+recommended further notebooks here:
 (https://github.com/jorisvandenbossche/DS-python-data-analysis)
