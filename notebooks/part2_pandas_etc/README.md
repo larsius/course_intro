@@ -12,4 +12,3 @@ Overview:
 
 4. Overview of the sciy library and statsmodels: [04-scipy_statsmodels_introduction.ipynb](04-scipy_statsmodels_introduction.ipynb)
 
-5. Introduction to machine learning with scikit-learn: https://github.com/lesteve/2017-cds-workshop-scikit-learn
