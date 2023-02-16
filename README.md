@@ -26,7 +26,7 @@ You may use the provided links to
 1. Module numpy [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/numpy.ipynb)
 1. Module matplotlib.pyplot [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/beginner/notebooks/pyplot.ipynb)
 1. Exercise sheet Numpy & co [[exercise]] (https://github.com/larsius/course_intro/tree/main/notebooks/beginner/notebooks/Exercise_sheet_1_Opencv_and_Numpy_arrays.pdf)
-1. Pandas intro [[notebook]] (http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/part2_pandas_etc/02_pandas.ipynb)
+1. Pandas intro [[notebook]](http://nbviewer.jupyter.org/github/larsius/course_intro/blob/main/notebooks/part2_pandas_etc/02-pandas_introduction.ipynb)
 
 ## Credits
 This is modified from (https://github.com/jerry-git/learn-python3)
